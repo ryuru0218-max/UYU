@@ -1,0 +1,6 @@
+discord.py
+google-generativeai
+Pillow
+beautifulsoup4
+youtube-transcript-api
+requests
